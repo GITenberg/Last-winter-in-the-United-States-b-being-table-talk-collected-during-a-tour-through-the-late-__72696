@@ -1,0 +1,40 @@
+_repo: Last-winter-in-the-United-States-b-being-table-talk-collected-during-a-tour-through-the-late-__72696
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Zincke, F. Barham (Foster Barham)
+    aliases:
+    - Zincke, Foster Barham
+    - M. E.
+    - E., M.
+    birthdate: 1817
+    deathdate: 1893
+    gutenberg_agent_id: '55531'
+    url: http://www.gutenberg.org/2009/agents/55531
+    wikipedia: https://en.wikipedia.org/wiki/Foster_Barham_Zincke
+description: ''
+gutenberg_issued: '2024-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72696'
+language: en
+pgterms:marc904: https://archive.org/details/lastwinterin00zincrich
+pgterms:marc905: 20210207070754zincke
+pgterms:marc906: '1868'
+pgterms:marc907: GB
+production_note: Bob Taylor, Susan Skinner and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bJohn Murray, $c1868.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Description and travel'
+- !lcsh 'United States -- Social life and customs -- 1865-1918'
+- !lcc 'E151'
+- GITenberg
+title: 'Last winter in the United States : $b being table talk collected during a
+  tour through the late Southern Confederation, the Far West, the Rocky Mountains,
+  &c.'
+url: http://www.gutenberg.org/ebooks/72696
